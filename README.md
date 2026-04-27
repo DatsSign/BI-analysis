@@ -30,7 +30,7 @@ One of the most profound insights was the "Empty Influencer" result for the top-
 ### The 5th Percentile Profile (Happiness Recipe)
 ![Resilience Profile](images/happiness_recipe.png)
 
-📂 Data Source
+## 📂 Data Source
 The dataset used in this analysis is sourced from open data repositories: https://www.kaggle.com/datasets/algozee/teenager-menthal-healy
 
 ⚙️ Data Transformation & Logic
