@@ -1,6 +1,17 @@
 # BI-analysis
 Data analysis and visualization using Power BI: Evaluating the impact of daily lifestyle factors on Gen-Z life satisfaction and mental resilience
 
+## 📊 Project Visuals
+
+### Overview
+![Overview Report](images/overview.png)
+
+### Predictors Analysis
+![Predictors Analysis](images/predictors_analysis.png)
+
+### The 5th Percentile Profile (Happiness Recipe)
+![Resilience Profile](images/happiness_recipe.png)
+
 # BI-analysis: Gen-Z Wellbeing & Resilience Patterns
 
 ## 🎯 Project Goal
